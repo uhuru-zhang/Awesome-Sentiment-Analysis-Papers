@@ -6,6 +6,8 @@
 #### 2018
 * [Aspect Term Extraction with History Attention and Selective Transformation](https://arxiv.org/pdf/1805.00760.pdf)
     * [论文笔记](https://zhuanlan.zhihu.com/p/51189078)
+* [Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction](http://aclweb.org/anthology/P18-2094?tdsourcetag=s_pctim_aiomsg)
+    * [论文笔记](https://zhuanlan.zhihu.com/p/51358039)
     
 
 ### Aspect-Level Sentiment Analysis
