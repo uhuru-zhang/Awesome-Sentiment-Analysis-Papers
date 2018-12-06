@@ -3,6 +3,10 @@
 
 ### Aspect Term Extraction
 
+#### 2017
+* [Deep Multi-Task Learning for Aspect Term Extraction with Memory Interaction](http://aclweb.org/anthology/D17-1310)
+    * [论文笔记](https://zhuanlan.zhihu.com/p/51632476)
+
 #### 2018
 * [Aspect Term Extraction with History Attention and Selective Transformation](https://arxiv.org/pdf/1805.00760.pdf)
     * [论文笔记](https://zhuanlan.zhihu.com/p/51189078)
