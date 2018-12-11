@@ -1,8 +1,23 @@
 # Awesome-Sentiment-Analysis-Papers
 文本情感分析领域优质Papers 汇总
 
-### Aspect Term Extraction
+## Word Embedding
 
+#### 2018
+* [Analogical Reasoning on Chinese Morphological and Semantic Relations ACL 2018](http://aclweb.org/anthology/P18-2023)
+    * [论文笔记](https://zhuanlan.zhihu.com/p/51983564)
+* [Domain Adapted Word Embeddings for Improved Sentiment Classification ACL 2018](http://aclweb.org/anthology/P18-2007)
+* [Learning Domain-Sensitive and Sentiment-Aware Word Embeddings ACL 2018](http://aclweb.org/anthology/P18-1232)
+
+
+
+## Aspect Term Extraction
+
+### 无监督 & 半监督
+* [ExtRA: Extracting Prominent Review Aspects from Customer Feedback](http://aclweb.org/anthology/D18-1384)
+    * [论文笔记](https://zhuanlan.zhihu.com/p/51767759)
+    
+### 有监督
 #### 2017
 * [Deep Multi-Task Learning for Aspect Term Extraction with Memory Interaction](http://aclweb.org/anthology/D17-1310)
     * [论文笔记](https://zhuanlan.zhihu.com/p/51632476)
@@ -14,7 +29,7 @@
     * [论文笔记](https://zhuanlan.zhihu.com/p/51358039)
     
 
-### Aspect-Level Sentiment Analysis
+## Aspect-Level Sentiment Analysis
 
 #### 2016
 * [Attention-based LSTM for Aspect-level Sentiment Classification](https://aclweb.org/anthology/D16-1058?tdsourcetag=s_pctim_aiomsg)
